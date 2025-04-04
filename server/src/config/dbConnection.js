@@ -17,4 +17,6 @@ const testConnection = async ()=>{
     }
 }
 
+
+
 module.exports = {sequelize, testConnection};
